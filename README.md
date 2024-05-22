@@ -4,7 +4,6 @@
 
 - 🌱 I’m currently learning Deep Learning<br/>
 - 👯 I’m looking to collaborate on ML/AI<br/>
-- 🤔 I’m looking for help with Placements in Nvidia<br/>
 - 💬 Ask me about Tech<br/>
 - 📫 How to reach me :
 <br /> [<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/rhhsudhan_391?t=6t2dsb_baDWRM3wHZaEGwQ&s=09) [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/harihara-sudhan-r-707b37224)
